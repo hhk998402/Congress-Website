@@ -25,6 +25,7 @@
     <favorites_list name="congress_website" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
@@ -36,6 +37,26 @@
 =======
             <state vertical-scroll-proportion="0.23396881">
               <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+=======
+    <leaf>
+      <file leaf-file-name="actionMain.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/actionMain.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.4074073">
+              <caret line="1285" column="53" selection-start-line="1285" selection-start-column="52" selection-end-line="1285" selection-end-column="53" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.28076255">
+              <caret line="157" column="35" selection-start-line="157" selection-start-column="35" selection-end-line="157" selection-end-column="35" />
+>>>>>>> f9929285ab3879bf2ba25bc9f909dad6ae5df9d8
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -49,24 +70,9 @@
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1523299538151" expanded="true" signature="6723:6831" placeholder="{...}" />
-                <marker date="1523299538151" expanded="true" signature="6734:6831" placeholder="[...]" />
-                <marker date="1523299538151" expanded="true" signature="6736:6831" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
-                <marker date="1523299538151" expanded="true" signature="13596:13700" placeholder="{...}" />
-                <marker date="1523299538151" expanded="true" signature="13607:13700" placeholder="[...]" />
-                <marker date="1523299538151" expanded="true" signature="13609:13700" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actionMain.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/actionMain.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.4074073">
-              <caret line="1285" column="18" selection-start-line="1285" selection-start-column="18" selection-end-line="1285" selection-end-column="18" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1523306408663" expanded="true" signature="12134:12238" placeholder="{...}" />
+                <marker date="1523306408663" expanded="true" signature="12145:12238" placeholder="[...]" />
+                <marker date="1523306408663" expanded="true" signature="12147:12238" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
               </folding>
 >>>>>>> 05aa0eb09e3941b0b5eac2ee705742a7177732a6
             </state>
@@ -77,12 +83,17 @@
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="55550">
               <caret line="2220" column="25" lean-forward="false" selection-start-line="2220" selection-start-column="25" selection-end-line="2220" selection-end-column="25" />
 =======
             <state vertical-scroll-proportion="-15.0">
               <caret line="2786" column="31" selection-start-line="2786" selection-start-column="31" selection-end-line="2786" selection-end-column="31" />
 >>>>>>> 05aa0eb09e3941b0b5eac2ee705742a7177732a6
+=======
+            <state vertical-scroll-proportion="-4.3703704">
+              <caret line="2328" column="1" selection-start-line="2328" selection-start-column="1" selection-end-line="2328" selection-end-column="1" />
+>>>>>>> f9929285ab3879bf2ba25bc9f909dad6ae5df9d8
               <folding>
                 <element signature="e#2965#4811#1" expanded="true" />
                 <element signature="e#4832#6717#1" expanded="true" />
@@ -111,9 +122,9 @@
       <list>
         <option value="$PROJECT_DIR$/public/javascripts/webflowMain.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/javascripts/actionMain.js" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
-        <option value="$PROJECT_DIR$/public/javascripts/actionMain.js" />
       </list>
     </option>
   </component>
@@ -128,9 +139,15 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="69" />
     <option name="y" value="33" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="33" />
+    <option name="y" value="23" />
+>>>>>>> f9929285ab3879bf2ba25bc9f909dad6ae5df9d8
     <option name="width" value="1264" />
     <option name="height" value="725" />
   </component>
@@ -252,7 +269,11 @@
     <option name="totallyTimeSpent" value="653000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+=======
+    <frame x="33" y="23" width="1264" height="725" extended-state="0" />
+>>>>>>> f9929285ab3879bf2ba25bc9f909dad6ae5df9d8
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22754946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -296,8 +317,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+    <entry file="file://$PROJECT_DIR$/public/javascripts/actionMain.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="55575">
           <caret line="2220" column="25" lean-forward="false" selection-start-line="2220" selection-start-column="25" selection-end-line="2220" selection-end-column="25" />
@@ -305,16 +327,17 @@
         <state vertical-scroll-proportion="-15.0">
           <caret line="2786" column="31" selection-start-line="2786" selection-start-column="31" selection-end-line="2786" selection-end-column="31" />
 >>>>>>> 05aa0eb09e3941b0b5eac2ee705742a7177732a6
+=======
+        <state vertical-scroll-proportion="-7.4074073">
+          <caret line="1285" column="53" selection-start-line="1285" selection-start-column="52" selection-end-line="1285" selection-end-column="53" />
+>>>>>>> f9929285ab3879bf2ba25bc9f909dad6ae5df9d8
           <folding>
-            <element signature="e#2965#4811#1" expanded="true" />
-            <element signature="e#4832#6717#1" expanded="true" />
-            <element signature="e#27975#28288#2" expanded="true" />
-            <element signature="e#28374#28691#2" expanded="true" />
-            <element signature="e#28764#29109#2" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -335,19 +358,26 @@
             <element signature="e#28764#29109#2" expanded="true" />
 =======
     <entry file="file://$PROJECT_DIR$/public/javascripts/actionMain.js">
+=======
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+>>>>>>> f9929285ab3879bf2ba25bc9f909dad6ae5df9d8
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.4074073">
-          <caret line="1285" column="18" selection-start-line="1285" selection-start-column="18" selection-end-line="1285" selection-end-column="18" />
+        <state vertical-scroll-proportion="-4.3703704">
+          <caret line="2328" column="1" selection-start-line="2328" selection-start-column="1" selection-end-line="2328" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#2965#4811#1" expanded="true" />
+            <element signature="e#4832#6717#1" expanded="true" />
+            <element signature="e#27975#28288#2" expanded="true" />
+            <element signature="e#28374#28691#2" expanded="true" />
+            <element signature="e#28764#29109#2" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23396881">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.28076255">
+          <caret line="157" column="35" selection-start-line="157" selection-start-column="35" selection-end-line="157" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -361,6 +391,7 @@
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+<<<<<<< HEAD
             <marker date="1523299538151" expanded="true" signature="6723:6831" placeholder="{...}" />
             <marker date="1523299538151" expanded="true" signature="6734:6831" placeholder="[...]" />
             <marker date="1523299538151" expanded="true" signature="6736:6831" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
@@ -368,6 +399,11 @@
             <marker date="1523299538151" expanded="true" signature="13607:13700" placeholder="[...]" />
             <marker date="1523299538151" expanded="true" signature="13609:13700" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
 >>>>>>> 05aa0eb09e3941b0b5eac2ee705742a7177732a6
+=======
+            <marker date="1523306408663" expanded="true" signature="12134:12238" placeholder="{...}" />
+            <marker date="1523306408663" expanded="true" signature="12145:12238" placeholder="[...]" />
+            <marker date="1523306408663" expanded="true" signature="12147:12238" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+>>>>>>> f9929285ab3879bf2ba25bc9f909dad6ae5df9d8
           </folding>
         </state>
       </provider>
