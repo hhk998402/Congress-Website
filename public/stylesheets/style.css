@@ -2259,7 +2259,7 @@ figcaption {
   height: 100%;
   padding-top: 9%;
   padding-bottom: 11%;
-  background-image: url("http://uploads.webflow.com/5727cdb3639cfa231e7b21d8/572b9b17a930e61c791255bd_Audience.png");
+  background-image: url("../images/coverMain.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2287,9 +2287,9 @@ figcaption {
   bottom: 0px;
   width: 100%;
   height: 3px;
-  background-color: #ce325f;
-  background-image: -webkit-linear-gradient(270deg, #f9643d, #fe2a77);
-  background-image: linear-gradient(180deg, #f9643d, #fe2a77);
+  background-color: cornflowerblue;
+  background-image: -webkit-linear-gradient(270deg, #00d2ff, #3a7bd5);
+  background-image: linear-gradient(180deg, #00d2ff, #3a7bd5);
 }
 
 .content-section {

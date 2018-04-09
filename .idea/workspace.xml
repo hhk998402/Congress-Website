@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63604856">
-              <caret line="1281" column="10" selection-start-line="1281" selection-start-column="10" selection-end-line="1281" selection-end-column="10" />
+            <state vertical-scroll-proportion="-8.372549">
+              <caret line="1280" column="33" selection-start-line="1280" selection-start-column="33" selection-end-line="1280" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -39,13 +39,23 @@
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1523293246888" expanded="true" signature="7073:7181" placeholder="{...}" />
-                <marker date="1523293246888" expanded="true" signature="7084:7181" placeholder="[...]" />
-                <marker date="1523293246888" expanded="true" signature="7086:7181" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
-                <marker date="1523293246888" expanded="true" signature="13946:14050" placeholder="{...}" />
-                <marker date="1523293246888" expanded="true" signature="13957:14050" placeholder="[...]" />
-                <marker date="1523293246888" expanded="true" signature="13959:14050" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+                <marker date="1523295787588" expanded="true" signature="6848:6956" placeholder="{...}" />
+                <marker date="1523295787588" expanded="true" signature="6859:6956" placeholder="[...]" />
+                <marker date="1523295787588" expanded="true" signature="6861:6956" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+                <marker date="1523295787588" expanded="true" signature="13721:13825" placeholder="{...}" />
+                <marker date="1523295787588" expanded="true" signature="13732:13825" placeholder="[...]" />
+                <marker date="1523295787588" expanded="true" signature="13734:13825" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9522293">
+              <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,8 +63,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5964" column="1" selection-start-line="5964" selection-start-column="1" selection-end-line="5964" selection-end-column="1" />
+            <state vertical-scroll-proportion="-7.4074073">
+              <caret line="2290" column="66" selection-start-line="2290" selection-start-column="62" selection-end-line="2290" selection-end-column="66" />
               <folding>
                 <element signature="e#2965#4811#1" expanded="true" />
                 <element signature="e#4832#6717#1" expanded="true" />
@@ -68,11 +78,20 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/public/javascripts/webflowMain.js" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -84,7 +103,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
+    <option name="x" value="-37" />
     <option name="y" value="23" />
     <option name="width" value="1264" />
     <option name="height" value="725" />
@@ -189,6 +208,28 @@
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="congress_website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="congress_website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -201,6 +242,40 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -212,7 +287,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="23" width="1264" height="725" extended-state="0" />
+    <frame x="-37" y="23" width="1264" height="725" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -244,8 +319,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5964" column="1" selection-start-line="5964" selection-start-column="1" selection-end-line="5964" selection-end-column="1" />
+        <state vertical-scroll-proportion="-7.4074073">
+          <caret line="2290" column="66" selection-start-line="2290" selection-start-column="62" selection-end-line="2290" selection-end-column="66" />
           <folding>
             <element signature="e#2965#4811#1" expanded="true" />
             <element signature="e#4832#6717#1" expanded="true" />
@@ -258,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63604856">
-          <caret line="1281" column="10" selection-start-line="1281" selection-start-column="10" selection-end-line="1281" selection-end-column="10" />
+        <state vertical-scroll-proportion="-8.372549">
+          <caret line="1280" column="33" selection-start-line="1280" selection-start-column="33" selection-end-line="1280" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -273,13 +348,21 @@
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1523293246888" expanded="true" signature="7073:7181" placeholder="{...}" />
-            <marker date="1523293246888" expanded="true" signature="7084:7181" placeholder="[...]" />
-            <marker date="1523293246888" expanded="true" signature="7086:7181" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
-            <marker date="1523293246888" expanded="true" signature="13946:14050" placeholder="{...}" />
-            <marker date="1523293246888" expanded="true" signature="13957:14050" placeholder="[...]" />
-            <marker date="1523293246888" expanded="true" signature="13959:14050" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+            <marker date="1523295787588" expanded="true" signature="6848:6956" placeholder="{...}" />
+            <marker date="1523295787588" expanded="true" signature="6859:6956" placeholder="[...]" />
+            <marker date="1523295787588" expanded="true" signature="6861:6956" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+            <marker date="1523295787588" expanded="true" signature="13721:13825" placeholder="{...}" />
+            <marker date="1523295787588" expanded="true" signature="13732:13825" placeholder="[...]" />
+            <marker date="1523295787588" expanded="true" signature="13734:13825" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9522293">
+          <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
