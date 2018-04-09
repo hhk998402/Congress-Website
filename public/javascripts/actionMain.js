@@ -1282,9 +1282,9 @@
             k = window.alert,
             _ = i.env(),
             T = /list-manage[1-9]?.com/i,
-            //O = e.debounce(function() {
-            //    k("Oops! This page has improperly configured forms. Please contact your website administrator to fix this issue.")
-            //}, 100);
+            O = e.debounce(function() {
+                //k("Oops! This page has improperly configured forms. Please contact your website administrator to fix this issue.")
+            }, 100);
         return d.ready = d.design = d.preview = function() {
             p = t("html").attr("data-wf-site"), (h = t(b + " form")).length && h.each(r), _ || m || (m = !0, v.on("submit", b + " form", function(e) {
                 var n = t.data(this, b);
