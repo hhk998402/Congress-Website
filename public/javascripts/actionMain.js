@@ -1881,7 +1881,7 @@
             if (r) return r;
             var o = t(e);
             r = t.data(e, m, {
-                latLng: "51.511214,-0.119824",
+                latLng: "12.9718, 79.1589",
                 tooltip: "",
                 style: "roadmap",
                 zoom: 12,
@@ -1892,7 +1892,8 @@
                     disableAutoPan: !0
                 })
             });
-            var a = n.widgetLatlng || r.latLng;
+            //var a = n.widgetLatlng || r.latLng;
+            var a = r.latLng;
             r.latLng = a;
             var s = a.split(","),
                 u = new d.maps.LatLng(s[0], s[1]);
