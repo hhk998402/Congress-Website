@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.372549">
-              <caret line="1280" column="33" selection-start-line="1280" selection-start-column="33" selection-end-line="1280" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.33275563">
+              <caret line="103" column="38" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -39,23 +39,13 @@
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1523295787588" expanded="true" signature="6848:6956" placeholder="{...}" />
-                <marker date="1523295787588" expanded="true" signature="6859:6956" placeholder="[...]" />
-                <marker date="1523295787588" expanded="true" signature="6861:6956" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
-                <marker date="1523295787588" expanded="true" signature="13721:13825" placeholder="{...}" />
-                <marker date="1523295787588" expanded="true" signature="13732:13825" placeholder="[...]" />
-                <marker date="1523295787588" expanded="true" signature="13734:13825" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+                <marker date="1523296719889" expanded="true" signature="6851:6959" placeholder="{...}" />
+                <marker date="1523296719889" expanded="true" signature="6862:6959" placeholder="[...]" />
+                <marker date="1523296719889" expanded="true" signature="6864:6959" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+                <marker date="1523296719889" expanded="true" signature="13724:13828" placeholder="{...}" />
+                <marker date="1523296719889" expanded="true" signature="13735:13828" placeholder="[...]" />
+                <marker date="1523296719889" expanded="true" signature="13737:13828" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9522293">
-              <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -63,8 +53,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.4074073">
-              <caret line="2290" column="66" selection-start-line="2290" selection-start-column="62" selection-end-line="2290" selection-end-column="66" />
+            <state vertical-scroll-proportion="-10.555555">
+              <caret line="2220" column="25" selection-start-line="2220" selection-start-column="25" selection-end-line="2220" selection-end-column="25" />
               <folding>
                 <element signature="e#2965#4811#1" expanded="true" />
                 <element signature="e#4832#6717#1" expanded="true" />
@@ -88,10 +78,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/public/javascripts/webflowMain.js" />
-        <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/views/index.ejs" />
       </list>
     </option>
   </component>
@@ -103,8 +93,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-37" />
-    <option name="y" value="23" />
+    <option name="x" value="69" />
+    <option name="y" value="33" />
     <option name="width" value="1264" />
     <option name="height" value="725" />
   </component>
@@ -287,7 +277,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-37" y="23" width="1264" height="725" extended-state="0" />
+    <frame x="69" y="33" width="1264" height="725" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -317,10 +307,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024958402">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.4074073">
-          <caret line="2290" column="66" selection-start-line="2290" selection-start-column="62" selection-end-line="2290" selection-end-column="66" />
+        <state vertical-scroll-proportion="-10.555555">
+          <caret line="2220" column="25" selection-start-line="2220" selection-start-column="25" selection-end-line="2220" selection-end-column="25" />
           <folding>
             <element signature="e#2965#4811#1" expanded="true" />
             <element signature="e#4832#6717#1" expanded="true" />
@@ -333,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.372549">
-          <caret line="1280" column="33" selection-start-line="1280" selection-start-column="33" selection-end-line="1280" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.33275563">
+          <caret line="103" column="38" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -348,21 +346,13 @@
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1523295787588" expanded="true" signature="6848:6956" placeholder="{...}" />
-            <marker date="1523295787588" expanded="true" signature="6859:6956" placeholder="[...]" />
-            <marker date="1523295787588" expanded="true" signature="6861:6956" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
-            <marker date="1523295787588" expanded="true" signature="13721:13825" placeholder="{...}" />
-            <marker date="1523295787588" expanded="true" signature="13732:13825" placeholder="[...]" />
-            <marker date="1523295787588" expanded="true" signature="13734:13825" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+            <marker date="1523296719889" expanded="true" signature="6851:6959" placeholder="{...}" />
+            <marker date="1523296719889" expanded="true" signature="6862:6959" placeholder="[...]" />
+            <marker date="1523296719889" expanded="true" signature="6864:6959" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+            <marker date="1523296719889" expanded="true" signature="13724:13828" placeholder="{...}" />
+            <marker date="1523296719889" expanded="true" signature="13735:13828" placeholder="[...]" />
+            <marker date="1523296719889" expanded="true" signature="13737:13828" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9522293">
-          <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
