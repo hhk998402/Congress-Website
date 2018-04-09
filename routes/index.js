@@ -24,7 +24,7 @@ router.get('/itc/brochure',(req,res)=>{
         var mailOptions = {
             from: process.env.EMAIL_ID,
             to: email,
-            subject: 'CodePark - Email Authentication',
+            subject: 'I don\'t know the subject',
             text : "Please click the link to download the brochure.\n http://localhost:3000/assets/itc_brochure.pdf"
         };
         transporter.sendMail(mailOptions, function(err, info){
@@ -36,6 +36,9 @@ router.get('/itc/brochure',(req,res)=>{
                 res.json({code: 0, message: "An Email has been sent with the brochure."});
             }
         });
+    }else{
+        res.json({code: 1, message: "Incalid Name or email."});
+
     }
 })
 module.exports = router;
