@@ -29,9 +29,46 @@
       <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1989">
               <caret line="103" column="38" lean-forward="false" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
               <folding />
+=======
+            <state vertical-scroll-proportion="0.23396881">
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1523299538151" expanded="true" signature="6723:6831" placeholder="{...}" />
+                <marker date="1523299538151" expanded="true" signature="6734:6831" placeholder="[...]" />
+                <marker date="1523299538151" expanded="true" signature="6736:6831" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+                <marker date="1523299538151" expanded="true" signature="13596:13700" placeholder="{...}" />
+                <marker date="1523299538151" expanded="true" signature="13607:13700" placeholder="[...]" />
+                <marker date="1523299538151" expanded="true" signature="13609:13700" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actionMain.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/actionMain.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.4074073">
+              <caret line="1285" column="18" selection-start-line="1285" selection-start-column="18" selection-end-line="1285" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+>>>>>>> 05aa0eb09e3941b0b5eac2ee705742a7177732a6
             </state>
           </provider>
         </entry>
@@ -39,8 +76,13 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="55550">
               <caret line="2220" column="25" lean-forward="false" selection-start-line="2220" selection-start-column="25" selection-end-line="2220" selection-end-column="25" />
+=======
+            <state vertical-scroll-proportion="-15.0">
+              <caret line="2786" column="31" selection-start-line="2786" selection-start-column="31" selection-end-line="2786" selection-end-column="31" />
+>>>>>>> 05aa0eb09e3941b0b5eac2ee705742a7177732a6
               <folding>
                 <element signature="e#2965#4811#1" expanded="true" />
                 <element signature="e#4832#6717#1" expanded="true" />
@@ -71,6 +113,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/public/javascripts/actionMain.js" />
       </list>
     </option>
   </component>
@@ -255,8 +298,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="55575">
           <caret line="2220" column="25" lean-forward="false" selection-start-line="2220" selection-start-column="25" selection-end-line="2220" selection-end-column="25" />
+=======
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="2786" column="31" selection-start-line="2786" selection-start-column="31" selection-end-line="2786" selection-end-column="31" />
+>>>>>>> 05aa0eb09e3941b0b5eac2ee705742a7177732a6
           <folding>
             <element signature="e#2965#4811#1" expanded="true" />
             <element signature="e#4832#6717#1" expanded="true" />
@@ -267,6 +315,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -284,6 +333,41 @@
             <element signature="e#27975#28288#2" expanded="true" />
             <element signature="e#28374#28691#2" expanded="true" />
             <element signature="e#28764#29109#2" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/public/javascripts/actionMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.4074073">
+          <caret line="1285" column="18" selection-start-line="1285" selection-start-column="18" selection-end-line="1285" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23396881">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1523299538151" expanded="true" signature="6723:6831" placeholder="{...}" />
+            <marker date="1523299538151" expanded="true" signature="6734:6831" placeholder="[...]" />
+            <marker date="1523299538151" expanded="true" signature="6736:6831" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+            <marker date="1523299538151" expanded="true" signature="13596:13700" placeholder="{...}" />
+            <marker date="1523299538151" expanded="true" signature="13607:13700" placeholder="[...]" />
+            <marker date="1523299538151" expanded="true" signature="13609:13700" placeholder="{&quot;type&quot;: &quot;video&quot;...}" />
+>>>>>>> 05aa0eb09e3941b0b5eac2ee705742a7177732a6
           </folding>
         </state>
       </provider>

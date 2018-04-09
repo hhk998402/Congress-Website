@@ -2341,7 +2341,7 @@ figcaption {
 .underline.crimson {
   position: relative;
   z-index: 1;
-  background-color: #f0326b;
+  background-color: #1488cc;
 }
 
 .underline.no-bottom-border {
@@ -2494,7 +2494,7 @@ figcaption {
   align-items: center;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  background-color: #ce325f;
+  background-color: #1488cc;
   background-image: none;
   background-size: auto;
   background-repeat: repeat;
@@ -2514,7 +2514,7 @@ figcaption {
 }
 
 .side-bar-tab:hover {
-  background-color: #c02e58;
+  background-color: #1488cc;
   opacity: 0.95;
 }
 
@@ -2546,7 +2546,7 @@ figcaption {
   display: inline-block;
   margin-right: 1%;
   float: left;
-  color: #ce325f;
+  color: #1488cc;
   font-size: 53px;
   line-height: 57px;
 }
@@ -2634,7 +2634,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 25px;
-  background-color: #ce325f;
+  background-color: #1488cc;
   -webkit-transition: background-color 300ms ease;
   transition: background-color 300ms ease;
   font-family: Montserrat, sans-serif;
@@ -2648,7 +2648,7 @@ figcaption {
 }
 
 .button:hover {
-  background-color: #c02e58;
+  background-color: #1488cc;
 }
 
 .button.boxed {
@@ -3574,7 +3574,7 @@ figcaption {
 }
 
 .text-field:hover {
-  border-bottom-color: #ce325f;
+  border-bottom-color: #1488cc;
 }
 
 .text-field:active {
@@ -3582,7 +3582,7 @@ figcaption {
 }
 
 .text-field:focus {
-  border-color: transparent transparent #ce325f;
+  border-color: transparent transparent #1488cc;
 }
 
 .text-field.on-pop-up {
@@ -4074,7 +4074,7 @@ figcaption {
 }
 
 .heading-4.hover:hover {
-  color: #fd3b75;
+  color: #1488cc;
 }
 
 .heading-4.white-and-hover {
@@ -4084,7 +4084,7 @@ figcaption {
 }
 
 .heading-4.white-and-hover:hover {
-  color: #fd3b75;
+  color: #1488cc;
 }
 
 .h4-text-box {
@@ -4115,7 +4115,7 @@ figcaption {
 }
 
 .heading-2.hover:hover {
-  color: #f0326b;
+  color: #1488cc;
 }
 
 .error-message {
@@ -4338,7 +4338,7 @@ figcaption {
   margin-right: auto;
   margin-left: auto;
   font-family: Montserrat, sans-serif;
-  color: #ce325f;
+  color: #1488cc;
   font-size: 10px;
   line-height: 20px;
   font-weight: 700;
@@ -4434,7 +4434,7 @@ figcaption {
   width: 100%;
   height: 2px;
   float: right;
-  background-color: #f9633e;
+  background-color: #1488cc;
 }
 
 .section-title-text {
@@ -4518,7 +4518,7 @@ figcaption {
   height: 4px;
   margin-top: 5px;
   border-radius: 3px;
-  background-color: #fd3b75;
+  background-color: #1488cc;
 }
 
 .special-underline.inline-block {
@@ -4605,7 +4605,7 @@ figcaption {
   position: relative;
   top: 1px;
   display: inline-block;
-  color: #ea524b;
+  color: #1488cc;
   font-size: 15px;
   font-weight: 400;
 }
@@ -4657,7 +4657,7 @@ figcaption {
 }
 
 .end-dots {
-  color: #f0326b;
+  color: #1488cc;
   font-weight: 400;
   text-align: center;
 }
@@ -4840,7 +4840,7 @@ figcaption {
 }
 
 .learn-more:hover {
-  color: #f0326b;
+  color: #1488cc;
 }
 
 .speaker-thumbnail {
@@ -4897,7 +4897,7 @@ figcaption {
 }
 
 .heading-3.hover:hover {
-  color: #fd3b75;
+  color: #1488cc;
 }
 
 .features-container {
@@ -5047,7 +5047,7 @@ figcaption {
   margin-right: 5px;
   margin-bottom: 10px;
   float: left;
-  color: #ce325f;
+  color: #1488cc;
   font-size: 50px;
 }
 
